@@ -35,5 +35,6 @@ public class Persona {
         System.out.println("Cantidad de letras mayusculas:"+contLetraMay);
         System.out.println("Cantidad de letras minusculas:"+contLetraMin);
         System.out.println("Cantidad de numeros:"+contNumero);
+        System.out.printl("Tahi es la mejor ahr");
     }
 }
